@@ -1,0 +1,2 @@
+d=200, alpha = 3.75 needs 20000 hmc steps
+d=100, alpha = 1.75 needs >30000 hmc steps
