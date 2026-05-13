@@ -1,0 +1,2 @@
+algo_perf: results for GAMP-RIE
+data: results for MCMC
