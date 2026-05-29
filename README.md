@@ -1,3 +1,5 @@
+# Statistical physics of deep learning
+
 This is the code repository for the paper:
 
 **Statistical physics of deep learning: Optimal learning of a multi-layer perceptron near interpolation**
