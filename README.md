@@ -8,6 +8,8 @@ Journal link https://journals.aps.org/prx/accepted/10.1103/56sb-pdh6
 
 Arxiv link https://arxiv.org/pdf/2510.24616
 
+Contributors: Minh-Toan Nguyen and Rudy Skerk
+
 Some simulation data, due to large size (>2 GB), is not included in the repository and can be found at https://drive.google.com/drive/folders/1ku508OeNi7T0Gv6ad1T-1T8mHEwN0dd9
 
 
